@@ -6,3 +6,7 @@
 .ipynb_checkpoints/Test_Results-checkpoint.ipynb
 .ipynb_checkpoints/readme-checkpoint.md
 __pycache__/cqt.cpython-310.pyc
+.ipynb_checkpoints/run_cgae_invar-checkpoint.ipynb
+*.pyc
+*.exe
+cgae-invar-like/*
